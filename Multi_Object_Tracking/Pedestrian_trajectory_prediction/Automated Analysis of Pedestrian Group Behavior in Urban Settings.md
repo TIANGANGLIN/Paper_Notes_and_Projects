@@ -1,6 +1,8 @@
 # Automated Analysis of Pedestrian Group Behavior in Urban Settings 
 
-When studying crowd behavior, understanding grop activities is more important. Studying the individual actions such as joining and leaving a group is also important for Vehicle Decision.
+## Summary
+
+When studying crowd behavior, understanding group activities is more important. Studying the individual actions such as joining and leaving a group is also important for Vehicle Decision.
 
 
 ## Research Objective 
@@ -34,7 +36,9 @@ Here, the author used all the past information to evaluate dissimilarity.
 
 [12]  K. Rio and W. H. Warren, “The visual coupling between neighbors in real and virtual crowds,” Transp. Res. Procedia, vol. 2, pp. 132–140, Oct. 2014. 
 
- [20] C. McPhail and R. T. Wohlstein, “Using film to analyze pedestrian behavior,” Sociol. Methods Res., vol. 10, no. 3, pp. 347–375, 1982. 
+[19] J. C. S. Jacques, Jr., A. Braun, J. Soldera, S. R. Musse, and C. R. Jung, “Understanding people motion in video sequences using Voronoi diagrams,” Pattern Anal. Appl., vol. 10, no. 4, pp. 321–332, Oct. 2007. 
+
+[20] C. McPhail and R. T. Wohlstein, “Using film to analyze pedestrian behavior,” Sociol. Methods Res., vol. 10, no. 3, pp. 347–375, 1982. 
 
 [21] W. Ge, R. T. Collins, and R. B. Ruback, “Vision-based analysis of small groups in pedestrian crowds,” IEEE Trans. Pattern Anal. Mach. Intell., vol. 34, no. 5, pp. 1003–1016, May 2012. 
 
